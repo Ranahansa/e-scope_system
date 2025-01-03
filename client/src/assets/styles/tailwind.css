@@ -1,0 +1,15 @@
+/* this is sample code for tailwind */
+
+
+/* Custom styles can be added below
+@layer components {
+    .btn-primary {
+        @apply px-4 py-2 text-white bg-blue-500 rounded-lg hover:bg-blue-600;
+    }
+}
+
+@layer utilities {
+    .text-shadow {
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+} */
